@@ -4,5 +4,5 @@ JTAG Breakout for Feather board for working with [ESP-Prog](https://www.digikey.
 ![Top](images/PCBImageTop.png)
 
 The prototype of the board produced by [Osh Park](https://oshpark.com)
-![board](AssembledPCB.png)
+![board](AssembledPCB.jpeg)
 
